@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Minecraft Seven';
+	src: url('/MinecraftSeven.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Minecraft Ten';
+	src: url('/MinecraftTen-Bold.ttf');
+}

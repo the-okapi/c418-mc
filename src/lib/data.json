@@ -1,0 +1,28 @@
+{
+	"title": {
+		"num": 1,
+		"parts": [
+			"<span style='font-family: \"Minecraft Ten\";'>C418</span>: the Composer of Minecraft"
+		]
+	},
+	"about": {
+		"num": 3,
+		"parts": [
+			"Daniel Rosenfeld was born on May 9, 1989",
+			"He was born in what is now Chemnitz, Germany",
+			"His brother introduced to making music with a computer prorgram"
+		]
+	},
+	"music": {
+		"num": 3,
+		"parts": [
+			"The genre of C418's music mostly electronic with a lot of synths and pianos",
+			"He composed the music of Minecraft, which was his first big album",
+			"placeholder😀"
+		]
+	},
+	"opinion": {
+		"num": 2,
+		"parts": ["placeholder😀", "placeholder😀"]
+	}
+}
