@@ -53,11 +53,7 @@
 </nav>
 
 <main>
-	<img
-		src={`/src/lib/images/${currentScroll}_scroll.png`}
-		alt="the current scroll"
-		class="currentScroll"
-	/>
+	<img src={`/images/${currentScroll}_scroll.png`} alt="the current scroll" class="currentScroll" />
 	<div class="grid3">
 		{#if currentNum !== 0}
 			<button class="movementButton" onclick={() => currentNum--}>{back}</button>
