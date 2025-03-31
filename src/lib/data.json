@@ -18,11 +18,15 @@
 		"parts": [
 			"The genre of C418's music mostly electronic with a lot of synths and pianos",
 			"He composed the music of Minecraft, which was his first big album",
-			"placeholder😀"
+			"His top songs: Subwoofer Lullaby, Sweden, Minecraft, Aria Math and Mice on Venus"
 		]
 	},
 	"opinion": {
-		"num": 2,
-		"parts": ["placeholder😀", "placeholder😀"]
+		"num": 3,
+		"parts": [
+            "I like C418's music and I think it adds a lot to Minecraft",
+            "I chose C418 because I could connect his Minecraft music with a Minecraft mod",
+            "My favorite of C418's songs is Alpha"
+        ]
 	}
 }
