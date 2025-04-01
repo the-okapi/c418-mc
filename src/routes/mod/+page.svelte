@@ -25,7 +25,7 @@
 
 <style>
 	:root {
-		background-color: #e80200;
+		background-color: #027bff;
 		color: white;
 		font-family: 'Minecraft Seven';
 		font-size: 1.25em;
